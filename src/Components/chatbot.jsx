@@ -6,7 +6,7 @@ import { GoogleGenerativeAI } from '@google/generative-ai';
 // const apiKey = "AIzaSyCxd0z042alMBmwX97IdfnsiKBvILBOfA8";
 
 
-const apiKey = "AIzaSyAFQFy8UcXbM6uJH_e3Ku2CEJ_axaWML8Q";
+const apiKey = "AIzaSyAUR-AMjIFWQpP6Nuf9GKKKETKRmQbVCWg";
 const genAI = new GoogleGenerativeAI(apiKey);
 const model = genAI.getGenerativeModel({ model: 'gemini-1.5-flash-002' });
 
