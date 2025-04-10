@@ -55,7 +55,7 @@ const router = createBrowserRouter(
     },
   ],
   {
-    basename: '/Interview-Mate-frontend/', // Add this line
+    basename: '/Zero-Day-Heroes-Frontend/', // Add this line
   }
 );
 
